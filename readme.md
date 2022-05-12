@@ -22,6 +22,8 @@ Table of Content
   - [VPS DEPLOYMENT WITHOUT DOCKER](#vps-deployment-without-docker)
 
 
+https://heroku.com/deploy?
+
 # Features
 Following are some awesome features offered by this bot:-
 - Using the best torrent client to deal with torrent : [qBittorrent](https://github.com/qbittorrent/qBittorrent)
