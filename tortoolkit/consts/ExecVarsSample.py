@@ -15,7 +15,7 @@ except:
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [-697808449,-1001517784321,-1001792060180,-1001517833978,-1001716097260]
         OWNER_ID = 0
 
         # Google Drive Index Link should include the base dir also See readme for more info
